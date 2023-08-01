@@ -1,0 +1,14 @@
+{
+  "name": "weeklybooks-script",
+  "version": "1.0.0",
+  "description": "Node Script to quickly generate recommended book list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mzhren",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
